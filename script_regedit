@@ -1,0 +1,13 @@
+jupyter notebook
+C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit -Command Set-Location -LiteralPath '%L' 'jupyter notebook'
+C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit -Command Set-Location -LiteralPath '%L' 'jupyter notebook'
+C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit -Command 'jupyter notebook'
+
+C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit -Command Set-Location -LiteralPath '%L' -File "C:\script\notebook.ps1" "%v" "%v"
+
+
+Regedit >> I can change here the register value 
+
+% This to run a script at the currnet directory 
+
+C:\\Windows\\system32\\WindowsPowerShell\\v1.0\\powershell.exe -NoExit ""C:\script\notebook.ps1"" '%L'
